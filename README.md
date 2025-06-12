@@ -16,7 +16,7 @@ This repository implements a **Wasserstein GAN with Gradient Penalty (WGAN-GP)**
 
 ---
 
-## 🗂 Directory Structure
+## Directory Structure
 ├── main.py # Entry point
 ├── models/
 │ ├── generator.py # Generator architecture
