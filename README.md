@@ -30,7 +30,10 @@ main.py                   # Entry point
 │   └── train_loop.py     # Training logic
 ├── utils/
 │   └── dropout.py        # Custom always-on Dropout layer
-```
+`````
 
 ---
 
+## Coming soon:
+-Evaluation scripts
+-Extreme event detection accuracy
