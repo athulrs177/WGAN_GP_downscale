@@ -1,0 +1,83 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# TensorBoard logs
+logs/
+tb_logs/
+
+# Model checkpoints and weights
+*.h5
+*.hdf5
+*.keras
+*.ckpt
+checkpoints/
+models/
+
+# Dataset files
+*.tfrecord
+*.npz
+*.npy
+*.csv
+*.netcdf
+*.nc
+
+# Temporary files
+*.bak
+*.swp
+*.tmp
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
+
+# pytest
+.cache/
+
+# mypy
+.mypy_cache/
+
+# TensorFlow profiler traces
+plugins/profile/*
