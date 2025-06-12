@@ -35,5 +35,5 @@ main.py                   # Entry point
 ---
 
 ## Coming soon:
--Evaluation scripts
--Extreme event detection accuracy
+- **Evaluation scripts**
+- **Extreme event detection accuracy**
