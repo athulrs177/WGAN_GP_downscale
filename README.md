@@ -16,19 +16,7 @@ This repository implements a **Wasserstein GAN with Gradient Penalty (WGAN-GP)**
 
 ---
 
-## Directory Structure
-├── main.py # Entry point
-├── models/
-│ ├── generator.py # Generator architecture
-│ └── discriminator.py # Discriminator architecture
-├── losses/
-│ └── loss_functions.py # Loss definitions
-├── data/
-│ └── preprocessing.py # Normalization and batching
-├── training/
-│ └── train_loop.py # Training logic
-├── utils/
-│ └── dropout.py # Custom always-on Dropout layer () # Optional
+<pre> ## Directory Structure ```bash main.py # Entry point ├── models/ │ ├── generator.py # Generator architecture │ └── discriminator.py # Discriminator architecture ├── losses/ │ └── loss_functions.py # Loss definitions ├── data/ │ └── preprocessing.py # Normalization and batching ├── training/ │ └── train_loop.py # Training logic ├── utils/ │ └── dropout.py # Custom always-on Dropout layer ``` </pre>
 
 ---
 
