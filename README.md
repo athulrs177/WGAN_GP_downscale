@@ -10,10 +10,10 @@ Here's a visual example of what the model does — taking coarse input fields an
 
 ##  Features
 
--  ***U-Net-based Generator*** with stochastic noise input (`z`)
--  ***Dual-head Discriminator***: 
-  - Patch realism map
-  - Binary classifier for extreme event detection
+-  **U-Net-based Generator** with stochastic noise input (`z`)
+-  **Dual-head Discriminator**: 
+    - Patch realism map
+    - Binary classifier for extreme event detection
 -  **Tail-weighted & quantile-aware loss functions**
 -  Support for:
   - MinMaxScaler-based normalization
