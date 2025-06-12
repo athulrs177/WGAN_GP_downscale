@@ -14,11 +14,11 @@ Here's a visual example of what the model does — taking coarse input fields an
 -  **Dual-head Discriminator**: 
     - Patch realism map
     - Binary classifier for extreme event detection
--  **Tail-weighted & quantile-aware loss functions**
+    -  Tail-weighted & quantile-aware loss functions
 -  Support for:
-  - MinMaxScaler-based normalization
-  - SSIM + L1 + adversarial + BCE loss fusion
-  - Gradient penalty (WGAN-GP)
+    - MinMaxScaler-based normalization
+    - SSIM + L1 + adversarial + BCE loss fusion
+    - Gradient penalty (WGAN-GP)
 
 ---
 
