@@ -2,6 +2,12 @@
 
 This repository implements a **Wasserstein GAN with Gradient Penalty (WGAN-GP)** using a U-Net-style (no skip-connections) generator and a patch-based discriminator, designed for high-resolution downscaling of weather and climate data, with a special emphasis on **extreme wind gusts**.
 
+## Example Output
+
+Here's a visual example of what the model does — taking coarse input fields and producing fine-resolution wind gust predictions:
+
+![WGAN-GP Downscaling Example](example.png)
+
 ##  Features
 
 -  **U-Net-based Generator** with stochastic noise input (`z`)
